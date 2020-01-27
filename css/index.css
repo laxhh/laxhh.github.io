@@ -3,7 +3,7 @@ body {
 }
 
 .menu-button {
-    font-size: 12px;
+    font-size: 75%;
 }
 
 .menu-button a{
@@ -20,8 +20,6 @@ body {
     height: 44px;
     width: 3.5%;
     line-height: 150%;
-}
-
-#title {
-
+    padding-top: 0.5%;
+    padding-left: 0.5%
 }
